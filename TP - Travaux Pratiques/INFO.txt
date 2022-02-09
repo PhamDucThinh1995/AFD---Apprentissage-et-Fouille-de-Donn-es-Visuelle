@@ -1,0 +1,3 @@
+Eng: All exercises are from the AFD course by Viennet Mannuel
+Francais: Tous les exercices sont issus du cours AFD de Viennet Mannuel
+Vietnam: Tất cả bài tập là từ khóa học AFD của thầy Viennet Mannuel
