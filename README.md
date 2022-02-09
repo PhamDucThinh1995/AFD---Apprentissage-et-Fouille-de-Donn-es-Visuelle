@@ -1,6 +1,7 @@
 # AFD-Apprentissage-et-Fouille-de-Donnees-Visuelle
 
 **English:**
+
 Dear friends, :)
 ⌂ This is an course on machine learning, deep learning and a simple neural network by Professor Emmanuel Viennet (https://www-l2ti.univ-paris13.fr/~viennet/) at the University Sorbonne Paris Nord 
 ⌂ I'm sure it's hard to learn a new, but please don't be discouraged because I used to be in this situation.
@@ -10,6 +11,7 @@ Dear friends, :)
 ⌂ Structure are: 1 file about theory and 1 file about practice. Additionally, the compressed file is the data used for exercise 2. 
 
 **Francais:**
+
 Chers amis, :)
 ■ Ceci est un cours sur l'apprentissage automatique, l'apprentissage profond et un réseau de neurones simple par le professeur Emmanuel Viennet (https://www-l2ti.univ-paris13.fr/~viennet/) à l'Université Sorbonne Paris Nord. 
 ■ Je suis sûr que c'est difficile d'apprendre une nouvelle, mais s'il vous plaît ne soyez pas découragé parce que j'ai été dans cette situation.
@@ -19,6 +21,7 @@ Chers amis, :)
 ■ La structure sont: 1 fichier sur la théorie et 1 fichier sur la pratique. De plus, le fichier compressé est la donnée utilisée pour l'exercice numéro 2. 
 
 **Vietnam:**
+
 Chào bạn, :)
 ⌂ Đây là khóa học mở đâu cho việc học máy, học sâu và một mạng nơ ron đơn giản của thầy Emmanuel Viennet (https://www-l2ti.univ-paris13.fr/~viennet/) tại trường Sorbonne Paris Nord.
 ⌂ Mình chắc việc học một môn mới rất khó khăn, nhưng xin đừng nản lòng vì mình cũng đã từng như vậy.
